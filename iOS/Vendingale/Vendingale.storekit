@@ -1,0 +1,42 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Vendingale Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Multi-contributor breakdown and monthly fund reports",
+              "displayName": "Vendingale Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.snackfund.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Vendingale Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
