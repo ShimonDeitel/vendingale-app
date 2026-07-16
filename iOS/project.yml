@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: VendingaleTests
-      - path: Vendingale.storekit
     dependencies:
       - target: Vendingale
     settings:
